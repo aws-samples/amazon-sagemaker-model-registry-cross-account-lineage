@@ -1,11 +1,6 @@
-## My Project
+## Amazon SageMaker Model Registry Cross Account Lineage
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This git repo shows how to perform cross acount model lineage and also provides cloudformation template to demonstrate how to automate the process. 
 
 ## Security
 
